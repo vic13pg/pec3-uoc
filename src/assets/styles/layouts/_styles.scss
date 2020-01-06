@@ -1,0 +1,11 @@
+//<---Toggle Navbar --->
+#menu-toggle:checked + #menu {
+  display: block;
+}
+
+//<---Página Miembros --->
+.bg--miembros {
+  background-image: url(/assets/images/FONS_WEB_1.jpg);
+  background-position-y: bottom;
+  background-repeat: no-repeat;
+}
